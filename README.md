@@ -1,2 +1,0 @@
-# jsacademy22
-jsacademy
